@@ -68,6 +68,45 @@ body {
   font-weight: 800;
 }
 
+.intro-want {
+  margin-top: 10px;
+  padding-top: 14px;
+  border-top: 1px solid #efefef;
+  display: grid;
+  gap: 8px;
+}
+
+.want-title {
+  font-size: 16px;
+  font-weight: 900;
+  color: #111;
+}
+
+.want-desc {
+  font-size: 14px;
+  color: #666;
+  line-height: 1.5;
+}
+/* 1111 */
+.skill {
+  margin-top: 10px;
+  padding-top: 14px;
+  border-top: 1px solid #efefef;
+  display: grid;
+  gap: 8px;
+}
+
+.skill-title {
+  font-size: 16px;
+  font-weight: 900;
+  color: #111;
+}
+
+.skill-1 {
+  font-size: 14px;
+  color: #666;
+  line-height: 1.5;
+}
 
 
 .group-naver,
